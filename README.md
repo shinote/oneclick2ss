@@ -42,4 +42,4 @@ sh oneclick2ss.sh restart
 
 具体客户端部署问题请自行Google。
 
-
+官网：shadowsocks http://www.shadowsocks.org/ nodejs http://nodejs.org/
